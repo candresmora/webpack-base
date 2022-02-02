@@ -3,12 +3,14 @@
 Este repositorio es una base de Webpack lista para empezar a trabajar en otros proyectos
 
 ### Notas:
-Para usar este repositorio se debe ejecutar el comando:
+Para usar este repositorio se deben ejecutar el comandos
+
+Para descargar todas las dependecias de node:
 ```
 npm install
 ```
-Para descargar todas las dependecias de node 
-Y para construir el buil ejecutamos:
+
+Para construir el buil ejecutamos:
 ```
 npm run build
 ```
