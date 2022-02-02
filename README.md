@@ -10,7 +10,7 @@ Para descargar todas las dependecias de node:
 npm install
 ```
 
-Para construir el buil ejecutamos:
+Para construir el build ejecutamos:
 ```
 npm run build
 ```
