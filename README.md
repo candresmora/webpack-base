@@ -12,6 +12,4 @@ Y para construir el buil ejecutamos:
 ```
 npm run build
 ```
-
-
-Pero esto lo veremos en la siguiente sección
+Y listo, a programar :)
